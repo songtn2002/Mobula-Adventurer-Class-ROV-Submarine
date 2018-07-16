@@ -1,0 +1,10 @@
+1. pressure sensor hole remove
+2. voltage stepdown board
+	Extrusion depth: 24.098 mm
+        Completify Extrusion depth: 1.1 cm
+        Chamfer: 0.21 cm
+3. light control relay board
+4. fill tower section wire hole
+5. Extrude water tubing holes
+6. Chamfer_pipe_faces
+7. Front section prolong

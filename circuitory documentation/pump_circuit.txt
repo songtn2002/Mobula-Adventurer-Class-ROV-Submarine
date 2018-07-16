@@ -1,0 +1,4 @@
+orange wire & blue wire : + and - of pump
+red wire & black wire : + and - of battery
+purple wire: GND arduino
+green wire: 23 arduino

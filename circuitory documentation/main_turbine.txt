@@ -1,0 +1,4 @@
+Grey Wire: PWM pin 5-arduino
+Purple Wire: PWM pin 6-arduino
+Red Wire lead head: VMotor pin - motor control chip
+Black Wire lead head: GND pin - motor control chip

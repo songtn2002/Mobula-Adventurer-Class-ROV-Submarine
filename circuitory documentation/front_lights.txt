@@ -1,0 +1,4 @@
+Green wire: digital pin 22-arduino
+Blue wire: GND pin-arduino
+Yellow wire: GND pin-power source
+Purple wire: 5v VCC pin-powersource

@@ -1,0 +1,342 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+\\全动电子九楼服\e\工装测试程序\2.8寸LGDP4535工装测试程序带触摸_STM32Mini\USER\TOUCH.uvproj
+Project File Date:  02/27/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(45): warning:  #177-D: variable "i" was declared but never referenced
+main.c:   {     u16 i=0;        
+main.c:             ^
+main.c: main.c: 1 warning, 0 errors
+compiling test.c...
+compiling GUI.c...
+linking...
+Program Size: Code=17270 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\OBJ\\TOUCH.AXF" 
+Set JLink Project File to "\\全动电子九楼服\e\工装测试程序\2.8寸LGDP4535工装测试程序带触摸_STM32Mini\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled May 20 2010 17:07:46
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.319V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(45): warning:  #177-D: variable "i" was declared but never referenced
+main.c:   {     u16 i=0;        
+main.c:             ^
+main.c: main.c: 1 warning, 0 errors
+compiling test.c...
+compiling GUI.c...
+compiling lcd.c...
+compiling touch.c...
+linking...
+Program Size: Code=17262 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 1 Warning(s).
+Load "..\\OBJ\\TOUCH.AXF" 
+Set JLink Project File to "\\全动电子九楼服\e\工装测试程序\2.8寸LGDP4535工装测试程序带触摸_STM32Mini\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled May 20 2010 17:07:46
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.319V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(48): warning:  #223-D: function "KEY_Init" declared implicitly
+main.c:         KEY_Init();
+main.c:         ^
+main.c(45): warning:  #177-D: variable "i" was declared but never referenced
+main.c:   {     u16 i=0;        
+main.c:             ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=17266 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 2 Warning(s).
+Load "..\\OBJ\\TOUCH.AXF" 
+Set JLink Project File to "\\全动电子九楼服\e\工装测试程序\2.8寸LGDP4535工装测试程序带触摸_STM32Mini\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled May 20 2010 17:07:46
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.319V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 0, TRES: 1, TRST: 0
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Target 1'
+linking...
+Program Size: Code=17266 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling test.c...
+test.c(249): error:  #165: too few arguments in function call
+test.c:                 key=KEY_Scan();
+test.c:                              ^
+test.c: test.c: 0 warnings, 1 error
+compiling key.c...
+Target not created
+Build target 'Target 1'
+compiling test.c...
+linking...
+Program Size: Code=17334 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\TOUCH.AXF" 
+Set JLink Project File to "\\全动电子九楼服\e\工装测试程序\2.8寸LGDP4535工装测试程序带触摸_STM32Mini\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled May 20 2010 17:07:46
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.319V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(48): warning:  #223-D: function "KEY_Init" declared implicitly
+main.c:         KEY_Init();
+main.c:         ^
+main.c(45): warning:  #177-D: variable "i" was declared but never referenced
+main.c:   {     u16 i=0;        
+main.c:             ^
+main.c: main.c: 2 warnings, 0 errors
+compiling test.c...
+compiling GUI.c...
+compiling lcd.c...
+compiling touch.c...
+linking...
+Program Size: Code=17334 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+Program Size: Code=17342 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\TOUCH.AXF" 
+Set JLink Project File to "\\全动电子九楼服\e\工装测试程序\2.8寸LGDP4535工装测试程序带触摸_STM32Mini\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled May 20 2010 17:07:46
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.319V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+Program Size: Code=17342 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OBJ\\TOUCH.AXF" 
+Set JLink Project File to "\\全动电子九楼服\e\工装测试程序\2.8寸LGDP4535工装测试程序带触摸_STM32Mini\USER\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled May 20 2010 17:07:46
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103RB
+VTarget = 3.319V
+State of Pins: 
+TCK: 0, TDI: 1, TDO: 0, TMS: 0, TRES: 1, TRST: 0
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 4000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+Program Size: Code=17342 RO-data=9226 RW-data=112 ZI-data=1648  
+FromELF: creating hex file...
+"..\OBJ\TOUCH.axf" - 0 Error(s), 0 Warning(s).

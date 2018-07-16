@@ -1,0 +1,2 @@
+larger rectangle: 1.2*3.2
+smaller rectangle: 1.2*2.2
